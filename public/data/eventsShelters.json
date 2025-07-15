@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": "evt_placeholder_1",
+      "title": "Event Title Placeholder",
+      "description": "Brief description of the community event goes here.",
+      "location": "Event location (TBD)",
+      "start": "2025-08-01T00:00:00-07:00",
+      "end": "2025-08-01T00:00:00-07:00"
+    },
+    {
+      "id": "evt_placeholder_2",
+      "title": "Another Event Placeholder",
+      "description": "Details coming soon.",
+      "location": "Location (TBD)",
+      "start": "2025-08-15T00:00:00-07:00",
+      "end": "2025-08-15T00:00:00-07:00"
+    }
+  ],
+  "shelters": [
+    {
+      "id": "shelter_placeholder_1",
+      "name": "Shelter Name Placeholder",
+      "address": "123 Placeholder St, Stockton, CA",
+      "phone": "(209) 000\u20110000",
+      "capacity": 0,
+      "beds_available": 0,
+      "last_updated": "2025-07-15T00:00:00-07:00"
+    },
+    {
+      "id": "shelter_placeholder_2",
+      "name": "Another Shelter Placeholder",
+      "address": "456 TBD Ave, Stockton, CA",
+      "phone": "(209) 000\u20110000",
+      "capacity": 0,
+      "beds_available": 0,
+      "last_updated": "2025-07-15T00:00:00-07:00"
+    }
+  ]
+}
